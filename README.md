@@ -1,4 +1,3 @@
-# password-strength-checker
 Password Strength Checker
 # Password Strength Checker
 
